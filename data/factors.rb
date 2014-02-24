@@ -1,0 +1,38 @@
+def factors
+  {
+    "Age" => "Insured Person",
+    "Claims Experience" => "Insured Person",
+    "Driving Experience" => "Insured Person",
+    "Gender" => "Insured Person",
+    "Marital Status" => "Insured Person",
+    "Number of Drivers" => "Insured Person",
+    "Occupation" => "Insured Person",
+    "Education" => "Insured Person",
+    "Income Level" => "Insured Person",
+    "Credit Score" => "Insured Person",
+    "Nationality" => "Insured Person",
+    "Multiple Cars' Owner" => "Insured Person",
+    "Traffic Record" => "Insured Person",
+
+    "Annual Mileage" => "Vehicle",
+    "Body Type" => "Vehicle",
+    "Number of Seats" => "Vehicle",
+    "Vehicle Make" => "Vehicle",
+    "Vehicle Model" => "Vehicle",
+    "Driving Area" => "Vehicle",  
+    "Nature of Business" => "Vehicle",
+    "Garage" => "Vehicle",
+    "Anti-Theft Device" => "Vehicle",
+    "Passive Safety Equipment" => "Vehicle",
+    "Vehicle Age" => "Vehicle",
+    "Distance to Work" => "Vehicle",
+    "Vehicle CC" => "Vehicle",
+    "Tonnage" => "Vehicle",
+    "Vehicle Power" => "Vehicle",
+    "Number of Doors" => "Vehicle",
+    "Transmission" => "Vehicle",
+    "Color" => "Vehicle",
+    "Market Value" => "Vehicle",
+    "Region" => "Vehicle"
+  }
+end 
